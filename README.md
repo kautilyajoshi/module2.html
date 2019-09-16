@@ -1,6 +1,6 @@
 # module2.html
 
-html>
+<html>
 
   
   <title>assignment 2</title>
